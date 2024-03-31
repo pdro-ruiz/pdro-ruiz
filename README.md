@@ -2,7 +2,7 @@
 
 👋 Hello! 
 
-I'm Pedro, passionate about discovering hidden patterns, obtaining valuable information and using it in potential business applications. \n
+I'm Pedro, passionate about discovering hidden patterns, obtaining valuable information and using it in potential business applications.
 My goal is to use my analytical skills and experience in handling large volumes of data to solve complex problems.
 
 I have worked on a variety of projects ranging from exploratory data analysis to building and deploying machine learning models. 
@@ -16,12 +16,10 @@ In addition to my projects, you will also find certifications I have earned from
 
 These certifications demonstrate my commitment to continuous learning and my dedication to staying current with the latest trends and techniques in the field of data science.
 
-Translated with DeepL.com (free version)
+I am happy to share my work and am open to collaborative opportunities and roles that allow me to use my skills to make a positive impact. 
+If you have any questions about my work or if you are interested in working with me, feel free to contact me.
 
-Estoy encantado de compartir mi trabajo y estoy abierto a oportunidades de colaboración y roles que me permitan utilizar mis habilidades para hacer un impacto positivo. 
-Si tienes alguna pregunta sobre mi trabajo o si estás interesado en trabajar conmigo, no dudes en contactarme.
-
-Gracias por visitar mi portfolio. Espero que disfrutes explorando mi trabajo tanto como yo disfruté creándolo.
+Thank you for visiting my portfolio. I hope you enjoy exploring my work as much as I enjoyed creating it.
 
 ---
 
