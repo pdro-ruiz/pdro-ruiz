@@ -2,7 +2,7 @@
 
 👋 Hello! 
 
-I'm Pedro, passionate about discovering hidden patterns, obtaining valuable information and using it in potential business applications./n
+I'm Pedro, passionate about discovering hidden patterns, obtaining valuable information and using it in potential business applications. \n
 My goal is to use my analytical skills and experience in handling large volumes of data to solve complex problems.
 
 I have worked on a variety of projects ranging from exploratory data analysis to building and deploying machine learning models. 
