@@ -23,6 +23,10 @@ Thank you for visiting my portfolio. I hope you enjoy exploring my work as much 
 
 ---
 
+![Snake](https://github.com/pdro-ruiz/pdro-ruiz/blob/main/grid-snake.svg)
+
+---
+
 # 🛠️ Habilidades Técnicas
 
 ## 💻 IDE
@@ -36,22 +40,8 @@ Thank you for visiting my portfolio. I hope you enjoy exploring my work as much 
 
 ## 📜 Certifications
 
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pdro-Ruiz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pdro-Ruiz&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pdro-Ruiz&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pdro-Ruiz&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Pdro-Ruiz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pdro-Ruiz&icon=3&color=12)](https://visitcount.itsvg.in)
