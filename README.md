@@ -1,3 +1,6 @@
+![Pdro-Ruiz]([https://github.com/SUKHMAN-SINGH-1612/SUKHMAN-SINGH-1612/blob/main/github-header-image.png](https://github.com/pdro-ruiz/pdro-ruiz/blob/main/pdro_ruiz.jpg))
+
+
 ### Hi there 👋
 
 <!--
