@@ -1,24 +1,24 @@
 ![](https://github.com/pdro-ruiz/pdro-ruiz/blob/main/pdro_ruiz.jpg)
 
+👋 ¡Hola! 
+Soy Pedro, un apasionado por descubrir patrones ocultos, obtener información valiosa y utilizarla en posibles aplicaciones empresariales
+Mi objetivo es utilizar mis habilidades analíticas y mi experiencia en el manejo de grandes volumenes de datos para resolver problemas complejos.
 
-### Hi there 👋
+He trabajado en una variedad de proyectos que abarcan desde el análisis exploratorio de datos hasta la construcción y despliegue de modelos de aprendizaje automático. Estos proyectos me han dado la oportunidad de trabajar con grandes conjuntos de datos, limpiar y preprocesar datos, explorar y visualizar datos para obtener insights, construir y afinar modelos predictivos.
 
-<!--
-**pdro-ruiz/pdro-ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(PORTFOLIO)
 
-Here are some ideas to get you started:
+En este portfolio, encontrarás una selección de mis proyectos de ciencia de datos. Cada proyecto es una representación de mi enfoque analítico para resolver problemas y mi habilidad para comunicar resultados de manera efectiva. Los proyectos varían en términos de complejidad y área de enfoque, pero todos ellos demuestran mi habilidad para utilizar datos para obtener insights y tomar decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Además de mis proyectos, también encontrarás certificaciones que he obtenido de instituciones reconocidas. 
+Estas certificaciones demuestran mi compromiso con el aprendizaje continuo y mi dedicación para mantenerme al día con las últimas tendencias y técnicas en el campo de la ciencia de datos.
 
+Estoy encantado de compartir mi trabajo y estoy abierto a oportunidades de colaboración y roles que me permitan utilizar mis habilidades para hacer un impacto positivo. 
+Si tienes alguna pregunta sobre mi trabajo o si estás interesado en trabajar conmigo, no dudes en contactarme.
 
+Gracias por visitar mi portfolio. Espero que disfrutes explorando mi trabajo tanto como yo disfruté creándolo.
+
+---
 
 # 🛠️ Habilidades Técnicas
 
