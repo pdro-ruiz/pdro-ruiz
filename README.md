@@ -40,19 +40,11 @@ Thank you for visiting my portfolio. I hope you enjoy exploring my work as much 
 
 ## 📜 Certifications
 [<img src='https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png' width="75" height="75"/>](https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da)
-
 [<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/certificate/SJE2FR3MBBR6)
-
-
 [<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://coursera.org/share/7fad3a7e34a467dbb1771e40050d411b)
-
-
-[<img src='[https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=1&w=80&h=80](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80
-)' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/GGE3GD2DBDVS)
-
+[<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/GGE3GD2DBDVS)
 [<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/UGNPCM8L4WEU)
-
-[<img src='https://swimburger.net/media/ppnn3pcl/azure.png' width="75" height="75"/>]([https://www.coursera.org/account/accomplishments/specialization/UGNPCM8L4WE](https://www.coursera.org/account/accomplishments/professional-cert/SEMBAJCL6AZG)
+[<img src='https://swimburger.net/media/ppnn3pcl/azure.png' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/professional-cert/SEMBAJCL6AZG)
 
 
 
