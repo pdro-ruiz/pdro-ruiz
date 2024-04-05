@@ -39,8 +39,23 @@ Thank you for visiting my portfolio. I hope you enjoy exploring my work as much 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![scikit_learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 ## 📜 Certifications
-[<img src='https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png' width="75" height="75"/>](https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da) [<img src='hhttps://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>]([https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da](https://www.coursera.org/account/accomplishments/specialization/certificate/SJE2FR3MBBR6))
+[<img src='https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png' width="75" height="75"/>](https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da)
+
+[<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/certificate/SJE2FR3MBBR6)
+
+
 [<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://coursera.org/share/7fad3a7e34a467dbb1771e40050d411b)
+
+
+[<img src='[https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=1&w=80&h=80](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80
+)' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/GGE3GD2DBDVS)
+
+[<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/UGNPCM8L4WEU)
+
+[<img src='https://swimburger.net/media/ppnn3pcl/azure.png' width="75" height="75"/>]([https://www.coursera.org/account/accomplishments/specialization/UGNPCM8L4WE](https://www.coursera.org/account/accomplishments/professional-cert/SEMBAJCL6AZG)
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pdro-Ruiz&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
