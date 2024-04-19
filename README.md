@@ -45,6 +45,9 @@ Thank you for visiting my portfolio. I hope you enjoy exploring my work as much 
 [<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/GGE3GD2DBDVS)
 [<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/specialization/UGNPCM8L4WEU)
 [<img src='https://swimburger.net/media/ppnn3pcl/azure.png' width="75" height="75"/>](https://www.coursera.org/account/accomplishments/professional-cert/SEMBAJCL6AZG)
+[<img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/ea/bed5f04a054e87bb138db8c6892072/Square-Logo-for-Partner-Landing-Page.png?auto=format%2Ccompress&dpr=1&w=180&h=180' width="75" height="75"/>](https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da)
+
+
 
 
 
