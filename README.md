@@ -1,12 +1,16 @@
 ![](https://github.com/pdro-ruiz/pdro-ruiz/blob/main/pdro_ruiz.jpg)
 
-### 👋 Hello! 
+# <b>Hi! I'm Pedro  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-I'm Pedro, passionate about discovering hidden patterns, obtaining valuable information and using it in potential business applications.
+Passionate about discovering hidden patterns, obtaining valuable information and using it in potential business applications.
 My goal is to use my analytical skills and experience in handling large volumes of data to solve complex problems.
 
 I have worked on a variety of projects ranging from exploratory data analysis to building and deploying machine learning models. 
 These projects have given me the opportunity to work with large datasets, clean and preprocess data, explore and visualize data for insights, build and refine predictive models.
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Data+Scientist;Programador+de+Python;Me+apasiona+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
+</p>
 
 (PORTFOLIO)
 
@@ -27,7 +31,7 @@ Thank you for visiting my portfolio. I hope you enjoy exploring my work as much 
 
 ---
 
-# 🛠️ Technical skills
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Technical skills
 
 ## 💻 IDEs
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Colab](	https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -53,10 +57,6 @@ Thank you for visiting my portfolio. I hope you enjoy exploring my work as much 
 [<img src='https://th.bing.com/th/id/R.3a6e1a69170d2eee8fdfbac7c5090e37?rik=BypsIF6MMETJug&riu=http%3a%2f%2fcloud.watch.impress.co.jp%2fimg%2fclw%2flist%2f1061%2f753%2ftop.jpg&ehk=S6NOX65JdYCljbx9jyaIeQOCsKZ%2fl3vhETpC7iliHxo%3d&risl=&pid=ImgRaw&r=0' width="75" height="75"/>](https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da)
 
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pdro-Ruiz&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pdro-Ruiz&icon=3&color=12)](https://visitcount.itsvg.in)
