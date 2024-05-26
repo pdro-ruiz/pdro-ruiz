@@ -6,8 +6,6 @@ Un apasionado de la ciencia de datos y un explorador incansable del vasto mundo 
 
 Desde que descubrí mi habilidad para encontrar patrones en el big data, me he dedicado a transformar esos datos en insights valiosos y soluciones prácticas para diferentes desafíos.
 
-Entendido, aquí tienes las frases cambiadas en el interior del código:
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Data+Scientist;Automatizo+complejos+procesos+con+IA;Descubro+patrones+ocultos+y+valiosos;Predigo+el+futuro+con+algoritmos+🔮+:)"></a>
 </p>
@@ -16,7 +14,7 @@ Mi curiosidad me ha llevado a enfrentar una amplia gama de problemas complejos. 
 
 No me importa mancharme las manos limpiando y preprocesando información para que cobre sentido, explorando y visualizando datos para descubrir historias ocultas, y construyendo modelos predictivos que realmente funcionan. Cada proyecto en mi cartera es una muestra de mi enfoque meticuloso y mi capacidad para comunicar resultados de manera clara y efectiva.
 
-Además de los proyectos, encontrarás varias certificaciones de instituciones de renombre que reflejan mi compromiso con el aprendizaje continuo y mi entusiasmo por estar al día con las últimas tendencias y técnicas en ciencia de datos. Estas credenciales son un testimonio de mi dedicación y mi deseo constante de mejorar.
+Además de los proyectos, encontrarás varias certificaciones de instituciones de renombre que reflejan mi compromiso con el aprendizaje continuo y mi entusiasmo por estar al día con las últimas tendencias y técnicas en ciencia de datos. Estas credenciales son un testimonio de mi dedicación y deseo constante de mejorar.
 
 Me encantaría conectar con otros profesionales y explorar oportunidades de colaboración. Estoy abierto a discutir cómo podemos trabajar juntos para aprovechar el poder de los datos y crear un impacto positivo. No dudes en ponerte en contacto conmigo si tienes alguna pregunta o si estás interesado en colaborar en un proyecto.
 
