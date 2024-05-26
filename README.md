@@ -1,29 +1,26 @@
 ![](https://github.com/pdro-ruiz/pdro-ruiz/blob/main/pdro_ruiz.jpg)
 
-# <b>Hi! I'm Pedro  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# <b>¡Hola! Soy Pedro I. Ruiz   </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-Passionate about discovering hidden patterns, obtaining valuable information and using it in potential business applications.
-My goal is to use my analytical skills and experience in handling large volumes of data to solve complex problems.
+Un apasionado de la ciencia de datos y un explorador incansable del vasto mundo de los datos.
 
-I have worked on a variety of projects ranging from exploratory data analysis to building and deploying machine learning models. 
-These projects have given me the opportunity to work with large datasets, clean and preprocess data, explore and visualize data for insights, build and refine predictive models.
+Desde que descubrí mi habilidad para encontrar patrones en el big data, me he dedicado a transformar esos datos en insights valiosos y soluciones prácticas para diferentes desafíos.
+
+Entendido, aquí tienes las frases cambiadas en el interior del código:
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Data+Scientist;Programador+de+Python;Me+apasiona+la+Inteligencia+Artificial;La+vision+por+computadora;Y+crear+proyectos+open+source."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Soy+Data+Scientist;Automatizo+complejos+procesos+con+IA;Descubro+patrones+ocultos+y+valiosos;Predigo+el+futuro+con+algoritmos+🔮+:)"></a>
 </p>
 
-(PORTFOLIO)
+Mi curiosidad me ha llevado a enfrentar una amplia gama de problemas complejos. En mis repositorios y en mi página web, encontrarás ejemplos donde he aplicado mis habilidades analíticas y mi experiencia en el manejo de datos. Desde análisis exploratorio hasta la construcción y despliegue de modelos de aprendizaje automático, cada proyecto ha sido una oportunidad para aprender, crecer y contribuir de manera significativa.
 
-In this portfolio, you will find a selection of my data science projects. Each project is a representation of my analytical approach to problem solving and my ability to communicate results effectively. The projects vary in terms of complexity and area of focus, but they all demonstrate my ability to use data to gain insights and make decisions.
+No me importa mancharme las manos limpiando y preprocesando información para que cobre sentido, explorando y visualizando datos para descubrir historias ocultas, y construyendo modelos predictivos que realmente funcionan. Cada proyecto en mi cartera es una muestra de mi enfoque meticuloso y mi capacidad para comunicar resultados de manera clara y efectiva.
 
-In addition to my projects, you will also find certifications I have earned from recognized institutions. 
+Además de los proyectos, encontrarás varias certificaciones de instituciones de renombre que reflejan mi compromiso con el aprendizaje continuo y mi entusiasmo por estar al día con las últimas tendencias y técnicas en ciencia de datos. Estas credenciales son un testimonio de mi dedicación y mi deseo constante de mejorar.
 
-These certifications demonstrate my commitment to continuous learning and my dedication to staying current with the latest trends and techniques in the field of data science.
+Me encantaría conectar con otros profesionales y explorar oportunidades de colaboración. Estoy abierto a discutir cómo podemos trabajar juntos para aprovechar el poder de los datos y crear un impacto positivo. No dudes en ponerte en contacto conmigo si tienes alguna pregunta o si estás interesado en colaborar en un proyecto.
 
-I am happy to share my work and am open to collaborative opportunities and roles that allow me to use my skills to make a positive impact. 
-If you have any questions about my work or if you are interested in working with me, feel free to contact me.
-
-Thank you for visiting my portfolio. I hope you enjoy exploring my work as much as I enjoyed creating it.
+Gracias por visitar mi GitHub, Linkedn o Página web. Espero que disfrutes explorando mi trabajo tanto como yo disfruté creándolo.
 
 ---
 
