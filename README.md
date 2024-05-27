@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+a+Data+Scientist;I+uncover+hidden+and+valuable+patterns;I+automate+complex+processes+with+AI;I+create+advanced+detection+tools;I+predict+the+future+with+algorithms+🔮+:)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Data+Scientist;I+uncover+hidden+and+valuable+patterns;I+automate+complex+processes+with+AI;I+create+advanced+detection+tools;I+predict+the+future+with+algorithms+🔮+:)"></a>
 </p>
 
 <p>
@@ -29,6 +29,7 @@
 
 <p>
   I would love to connect with other professionals and explore collaboration opportunities. I am open to discussing how we can work together to harness the power of data and create a positive impact. Feel free to contact me if you have any questions or if you are interested in collaborating on a project.
+
 </p>
 
 <p>
@@ -69,7 +70,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  width="60" height="60"/>
 </div>
 
-<h3>📊 Librerías, frameworks y otros </h3>
+<h3>📊 Libraries, frameworks and others</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"  width="60" height="60"/>
