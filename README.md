@@ -43,66 +43,61 @@
   <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/grid-snake.svg" alt="Snake Animation">
 </div>
 
-<hr>
+---
+---
 
-<h2 align="center">
-  <picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50">
-  </picture> 
-  Technical skills
-</h2>
+### Contact Information
 
-<h3>💻 IDEs</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="60" height="60"/>
-</div>
+- **LinkedIn**: [linkedin.com/in/pdro-ruiz](https://linkedin.com/in/pdro-ruiz)
+- **Languages**: Spanish (Native), English (Intermediate), German (Intermediate)
 
-<h3>⌨️ Languages</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" height="60"/>
-</div>
+---
 
-<h3>💾 Data manipulation</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="60" height="60"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  width="60" height="60"/>
-</div>
+### Technical Skills
 
-<h3>📊 Libraries, frameworks and others</h3>
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"  width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"  width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"   width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"   width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"   width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"   width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"   width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"   width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"   width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"width="60" height="60"/> 
-</div>
+| Category                         | Tools & Technologies                                                                       |
+| -------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Programming Languages**        | Python (Expert), R, SQL, NoSQL, Java, C++, Bash                                            |
+| **Data Manipulation & Analysis** | Pandas, NumPy, SciPy, Jupyter Notebooks                                                    |
+| **Machine Learning & AutoML**    | scikit-learn, XGBoost, LightGBM, Auto-sklearn                                              |
+| **Deep Learning**                | TensorFlow, PyTorch, Keras                                                                 |
+| **Natural Language Processing**  | Hugging Face Transformers, SpaCy, NLTK, Gensim, GPT-based models                           |
+| **Data Visualization & BI**      | Matplotlib, Seaborn, Plotly, Power BI, Tableau                                             |
+| **MLOps & Model Deployment**     | MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins, GitHub Actions                |
+| **Cloud & DevOps**               | Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow) |
+| **Big Data**                     | Apache Spark, Hadoop, Hive                                                                 |
+| **Databases & Storage**          | MySQL, PostgreSQL, MongoDB, Redis                                                          |
+| **APIs & Microservices**         | FastAPI, Flask, RESTful APIs, gRPC                                                         |
+| **Agile & CI/CD**                | Scrum, Kanban, CI/CD pipelines (Git, Jenkins, GitHub Actions), Jira                        |
 
-<h3>📜 Certifications</h3>
-<div align="center">
-  <a href="https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da"><img src='https://images.credly.com/size/340x340/images/015364a4-c68c-4c42-8060-3553118f2ff0/image.png' width="75" height="75"/></a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/SJE2FR3MBBR6"><img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/6d/3cb3e06c357d40ef60000fb3d12d72/dukesquare_blue.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/></a>
-  <a href="https://coursera.org/share/7fad3a7e34a467dbb1771e40050d411b"><img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/b4/5cb90bb92f420b99bf323a0356f451/Icon.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/></a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/GGE3GD2DBDVS"><img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/></a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/UGNPCM8L4WEU"><img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/e8/7cc3d09d3f11e698dfff46d35f2da1/Stanford_Coursera_Logo.png?auto=format%2Ccompress&dpr=1&w=80&h=80' width="75" height="75"/></a>
-  <a href="https://www.coursera.org/account/accomplishments/professional-cert/SEMBAJCL6AZG"><img src='https://swimburger.net/media/ppnn3pcl/azure.png' width="75" height="75"/></a>
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/EAZYSHZPGF7A"><img src='https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/ea/bed5f04a054e87bb138db8c6892072/Square-Logo-for-Partner-Landing-Page.png?auto=format%2Ccompress&dpr=1&w=180&h=180' width="75" height="75"/></a>
-  <a href="https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da"><img src='https://images.credly.com/images/3cd98d8a-c224-4f8f-a839-d0a87422f2c1/Python_Project_for_AI_and_Application_Development.png' width="75" height="75"/></a>
-  <a href="https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da"><img src='https://th.bing.com/th/id/OIP.zFkC8CZa7mNlAGN9vftxngHaHa?rs=1&pid=ImgDetMain' width="75" height="75"/></a>
-  <a href="https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da"><img src='https://th.bing.com/th/id/OIP.zFkC8CZa7mNlAGN9vftxngHaHa?rs=1&pid=ImgDetMain' width="75" height="75"/></a>
-  <a href="https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da"><img src='https://th.bing.com/th/id/R.3a6e1a69170d2eee8fdfbac7c5090e37?rik=BypsIF6MMETJug&riu=http%3a%2f%2fcloud.watch.impress.co.jp%2fimg%2fclw%2flist%2f1061%2f753%2ftop.jpg&ehk=S6NOX65JdYCljbx9jyaIeQOCsKZ%2fl3vhETpC7iliHxo%3d&risl=&pid=ImgRaw&r=0' width="75" height="75"/></a>
-  <a href="https://www.credly.com/badges/d6ffa467-7917-4e77-aaf3-aa3c75f667da"><img src='https://th.bing.com/th/id/R.3a6e1a69170d2eee8fdfbac7c5090e37?rik=BypsIF6MMETJug&riu=http%3a%2f%2fcloud.watch.impress.co.jp%2fimg%2fclw%2flist%2f1061%2f753%2ftop.jpg&ehk=S6NOX65JdYCljbx9jyaIeQOCsKZ%2fl3vhETpC7iliHxo%3d&risl=&pid=ImgRaw&r=0' width="75" height="75"/></a>
-</div>
+---
 
-<hr>
+### Education
 
+| Degree                                          | Institution              | Date      |
+| ----------------------------------------------- | ------------------------ | --------- |
+| **Master in Data Science and AI**               | Grupo Atrium             | Completed |
+| **MBA in Management, Marketing, Communication** | Unidema Higher Education | Completed |
+
+---
+
+### Certifications
+
+| Certification                                                      | Institution         | Date      |
+| ------------------------------------------------------------------ | ------------------- | --------- |
+| **Generative AI Engineering - Professional Certificate**           | IBM                 | Mar. 2025 |
+| **DevOps and Software Engineering - Professional Certificate**     | IBM                 | Jan. 2025 |
+| **Data Scientist - Professional Certificate**                      | IBM                 | Nov. 2024 |
+| **Artificial Intelligence Programme**                              | EITCA Academy       | Jul. 2024 |
+| **AI Developer - Professional Certificate**                        | IBM                 | May. 2024 |
+| **Emerging Ethical Technologist**                                  | CertNexus           | Apr. 2024 |
+| **Machine Learning**                                               | Stanford University | Oct. 2023 |
+| **Mathematics for Machine Learning**                               | DeepLearning.AI     | Sep. 2023 |
+| **Logic and Critical Thinking**                                    | Duke University     | Jul. 2023 |
+| **Data Analyst - Professional Certificate**                        | Google              | Apr. 2023 |
+| **Data Mining Business Intelligence**                              | NtFor               | Apr. 2023 |
+
+---
 [![](https://visitcount.itsvg.in/api?id=Pdro-Ruiz&icon=3&color=12)](https://visitcount.itsvg.in)
 
 <hr>
