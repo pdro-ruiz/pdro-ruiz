@@ -43,62 +43,121 @@
   <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/grid-snake.svg" alt="Snake Animation">
 </div>
 
----
----
 
-### Contact Information
+
+## Información de Contacto
 
 - **LinkedIn**: [linkedin.com/in/pdro-ruiz](https://linkedin.com/in/pdro-ruiz)
-- **Languages**: Spanish (Native), English (Intermediate), German (Intermediate)
+- **Idiomas**: Español (Nativo), Inglés (Intermedio), Alemán (Intermedio)
 
 ---
 
-### Technical Skills
+## Habilidades Técnicas
 
-| Category                         | Tools & Technologies                                                                       |
-| -------------------------------- | ------------------------------------------------------------------------------------------ |
-| **Programming Languages**        | Python (Expert), R, SQL, NoSQL, Java, C++, Bash                                            |
-| **Data Manipulation & Analysis** | Pandas, NumPy, SciPy, Jupyter Notebooks                                                    |
-| **Machine Learning & AutoML**    | scikit-learn, XGBoost, LightGBM, Auto-sklearn                                              |
-| **Deep Learning**                | TensorFlow, PyTorch, Keras                                                                 |
-| **Natural Language Processing**  | Hugging Face Transformers, SpaCy, NLTK, Gensim, GPT-based models                           |
-| **Data Visualization & BI**      | Matplotlib, Seaborn, Plotly, Power BI, Tableau                                             |
-| **MLOps & Model Deployment**     | MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins, GitHub Actions                |
-| **Cloud & DevOps**               | Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow) |
-| **Big Data**                     | Apache Spark, Hadoop, Hive                                                                 |
-| **Databases & Storage**          | MySQL, PostgreSQL, MongoDB, Redis                                                          |
-| **APIs & Microservices**         | FastAPI, Flask, RESTful APIs, gRPC                                                         |
-| **Agile & CI/CD**                | Scrum, Kanban, CI/CD pipelines (Git, Jenkins, GitHub Actions), Jira                        |
+<div align="center">
 
----
+| **Categoría**                         | **Herramientas y Tecnologías**                                                                 |
+|---------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Lenguajes de Programación**         | Python (Experto), R, SQL, NoSQL, Java, C++, Bash                                                |
+| **Manipulación y Análisis de Datos**  | Pandas, NumPy, SciPy, Jupyter Notebooks                                                         |
+| **Machine Learning & AutoML**         | scikit-learn, XGBoost, LightGBM, Auto-sklearn                                                   |
+| **Deep Learning**                     | TensorFlow, PyTorch, Keras                                                                      |
+| **Procesamiento de Lenguaje Natural** | Hugging Face Transformers, SpaCy, NLTK, Gensim, modelos basados en GPT                          |
+| **Visualización de Datos & BI**       | Matplotlib, Seaborn, Plotly, Power BI, Tableau                                                  |
+| **MLOps & Despliegue de Modelos**     | MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins, GitHub Actions                     |
+| **Cloud & DevOps**                    | Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow)       |
+| **Big Data**                          | Apache Spark, Hadoop, Hive                                                                      |
+| **Bases de Datos & Almacenamiento**   | MySQL, PostgreSQL, MongoDB, Redis                                                               |
+| **APIs & Microservicios**             | FastAPI, Flask, RESTful APIs, gRPC                                                              |
+| **Metodologías Ágiles & CI/CD**       | Scrum, Kanban, pipelines CI/CD (Git, Jenkins, GitHub Actions), Jira                              |
 
-### Education
-
-| Degree                                          | Institution              | Date      |
-| ----------------------------------------------- | ------------------------ | --------- |
-| **Master in Data Science and AI**               | Grupo Atrium             | Completed |
-| **MBA in Management, Marketing, Communication** | Unidema Higher Education | Completed |
+</div>
 
 ---
 
-### Certifications
+## Formación Académica
 
-| Certification                                                      | Institution         | Date      |
-| ------------------------------------------------------------------ | ------------------- | --------- |
-| **Generative AI Engineering - Professional Certificate**           | IBM                 | Mar. 2025 |
-| **DevOps and Software Engineering - Professional Certificate**     | IBM                 | Jan. 2025 |
-| **Data Scientist - Professional Certificate**                      | IBM                 | Nov. 2024 |
-| **Artificial Intelligence Programme**                              | EITCA Academy       | Jul. 2024 |
-| **AI Developer - Professional Certificate**                        | IBM                 | May. 2024 |
-| **Emerging Ethical Technologist**                                  | CertNexus           | Apr. 2024 |
-| **Machine Learning**                                               | Stanford University | Oct. 2023 |
-| **Mathematics for Machine Learning**                               | DeepLearning.AI     | Sep. 2023 |
-| **Logic and Critical Thinking**                                    | Duke University     | Jul. 2023 |
-| **Data Analyst - Professional Certificate**                        | Google              | Apr. 2023 |
-| **Data Mining Business Intelligence**                              | NtFor               | Apr. 2023 |
+<div align="center">
+
+| **Título**                                           | **Institución**            | **Estado**   |
+|-----------------------------------------------------|----------------------------|--------------|
+| **Máster en Data Science e Inteligencia Artificial** | Grupo Atrium               | Completado   |
+| **MBA en Gestión, Marketing y Comunicación**        | Unidema Higher Education   | Completado   |
+
+</div>
 
 ---
+
+## Certificaciones
+
+<div align="center">
+
+| **Certificación**                                                     | **Institución**          | **Fecha**   |
+|-----------------------------------------------------------------------|--------------------------|-------------|
+| **Generative AI Engineering - Professional Certificate**             | IBM                      | Mar. 2025   |
+| **DevOps and Software Engineering - Professional Certificate**       | IBM                      | Ene. 2025   |
+| **Data Scientist - Professional Certificate**                        | IBM                      | Nov. 2024   |
+| **Artificial Intelligence Programme**                                | EITCA Academy            | Jul. 2024   |
+| **AI Developer - Professional Certificate**                          | IBM                      | May. 2024   |
+| **Emerging Ethical Technologist**                                    | CertNexus                | Abr. 2024   |
+| **Machine Learning**                                                   | Stanford University      | Oct. 2023   |
+| **Mathematics for Machine Learning**                                   | DeepLearning.AI          | Sep. 2023   |
+| **Logic and Critical Thinking**                                        | Duke University          | Jul. 2023   |
+| **Data Analyst - Professional Certificate**                            | Google                   | Abr. 2023   |
+| **Data Mining Business Intelligence**                                  | NtFor                    | Abr. 2023   |
+
+</div>
+
+---
+
+## Proyectos Destacados
+
+- **[Ethical Emerging Technologist](https://github.com/pdro-ruiz/Ethical-Emerging-Technologist)**  
+  Certificado profesional de CertNexus.
+
+- **[Advertising Engine with Semantic Targeting and Reinforcement Learning](https://github.com/pdro-ruiz/Advertising-Engine-with-SemanticTargeting-and-ReinforcementLearning)**  
+  Motor publicitario optimizado mediante segmentación semántica y aprendizaje por refuerzo.
+
+- **[YouTube Metadata with Machine Learning](https://github.com/pdro-ruiz/YouTube_Metadata_whit_Machine_Lerning)**  
+  Análisis de metadatos de videos de YouTube utilizando técnicas de aprendizaje automático.
+
+- **[Análisis de Datos de SpaceX](https://github.com/pdro-ruiz/Analisis-de-Datos-de-SpaceX)**  
+  Exploración y visualización de datos de SpaceX para detectar patrones significativos.
+
+- **[Emotion Detection Web App](https://github.com/pdro-ruiz/Emotion-Detection-Web-App)**  
+  Aplicación web para la detección de emociones a partir de texto.
+
+- **[Flask API Integrating OpenAI GPT-3 and IBM Watson Services](https://github.com/pdro-ruiz/Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services)**  
+  API en Flask que integra GPT-3 de OpenAI y servicios de IBM Watson.
+
+- **[RMS Titanic Dataset](https://github.com/pdro-ruiz/RMS-Titanic-Dataset)**  
+  Análisis predictivo del dataset del Titanic.
+
+- **[Celebrity Facial Recognition](https://github.com/pdro-ruiz/Celebrity-Facial-Recognition)**  
+  Reconocimiento facial de celebridades utilizando modelos de deep learning.
+
+- **[PhotoNamesAI](https://github.com/pdro-ruiz/PhotoNamesAI)**  
+  Generación de nombres para fotos mediante inteligencia artificial.
+
+- **[Drowsiness Detection](https://github.com/pdro-ruiz/drowsiness_detection)**  
+  Sistema de detección de somnolencia basado en IA.
+
+- **[Fine-Tuning RoBERTa for Sentiment Analysis on IMDb Reviews](https://github.com/pdro-ruiz/Fine-Tuning-RoBERTa-for-Sentiment-Analysis-on-IMDb-Reviews)**  
+  Ajuste fino de RoBERTa para análisis de sentimientos en reseñas de IMDb.
+
+- **[Wine Quality Prediction](https://github.com/pdro-ruiz/Wine-Quality-Prediction)**  
+  Modelo de predicción de calidad del vino a partir de características químicas.
+
+- **[House Prices Regression Models](https://github.com/pdro-ruiz/House-prices-regression-models)**  
+  Predicción de precios de viviendas mediante modelos de regresión.
+
+- **[Breast Cancer Prediction](https://github.com/pdro-ruiz/Breast-Cancer-Prediction)**  
+  Modelo predictivo para el diagnóstico de cáncer de mama.
+
+- **[Chatbot con BlenderBot y Transformers](https://github.com/pdro-ruiz/Chatbot-con-BlenderBot-y-Transformers)**  
+  Desarrollo de un chatbot avanzado utilizando BlenderBot y Transformers.
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=Pdro-Ruiz&icon=3&color=12)](https://visitcount.itsvg.in)
-
-<hr>
 
