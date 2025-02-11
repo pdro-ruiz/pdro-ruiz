@@ -58,66 +58,6 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
 
 <br>
 
-<div align="center"><h2>Technical Skills</h2></div>
-<div align="center">
-  <table>
-    <tr>
-      <th>📌 Category</th>
-      <th>🛠 Tools & Technologies</th>
-    </tr>
-    <tr>
-      <td><strong>Programming Languages</strong></td>
-      <td>Python (Expert), R, SQL, NoSQL, Java, C++, Bash</td>
-    </tr>
-    <tr>
-      <td><strong>Data Manipulation & Analysis</strong></td>
-      <td>Pandas, NumPy, SciPy, Jupyter Notebooks</td>
-    </tr>
-    <tr>
-      <td><strong>Machine Learning & AutoML</strong></td>
-      <td>scikit-learn, XGBoost, LightGBM, Auto-sklearn</td>
-    </tr>
-    <tr>
-      <td><strong>Deep Learning</strong></td>
-      <td>TensorFlow, PyTorch, Keras</td>
-    </tr>
-    <tr>
-      <td><strong>Natural Language Processing</strong></td>
-      <td>Hugging Face Transformers, SpaCy, NLTK, Gensim, GPT-based models</td>
-    </tr>
-    <tr>
-      <td><strong>Data Visualization & BI</strong></td>
-      <td>Matplotlib, Seaborn, Plotly, Power BI, Tableau</td>
-    </tr>
-    <tr>
-      <td><strong>MLOps & Model Deployment</strong></td>
-      <td>MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins, GitHub Actions</td>
-    </tr>
-    <tr>
-      <td><strong>Cloud & DevOps</strong></td>
-      <td>Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow)</td>
-    </tr>
-    <tr>
-      <td><strong>Big Data</strong></td>
-      <td>Apache Spark, Hadoop, Hive</td>
-    </tr>
-    <tr>
-      <td><strong>Databases & Storage</strong></td>
-      <td>MySQL, PostgreSQL, MongoDB, Redis</td>
-    </tr>
-    <tr>
-      <td><strong>APIs & Microservices</strong></td>
-      <td>FastAPI, Flask, RESTful APIs, gRPC</td>
-    </tr>
-    <tr>
-      <td><strong>Agile Methodologies & CI/CD</strong></td>
-      <td>Scrum, Kanban, CI/CD pipelines (Git, Jenkins, GitHub Actions), Jira</td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
 <div align="center"><h2>Featured Projects</h2></div>
 
 <p>Here are some of my most relevant projects, where I apply AI, data science, and machine learning to solve real-world challenges.</p>
@@ -180,6 +120,66 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
     Advanced conversational AI chatbot built using Facebook AI's BlenderBot and Transformer models.
   </li>
 </ul>
+
+<br>
+
+<div align="center"><h2>Technical Skills</h2></div>
+<div align="center">
+  <table>
+    <tr>
+      <th>📌 Category</th>
+      <th>🛠 Tools & Technologies</th>
+    </tr>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>Python (Expert), R, SQL, NoSQL, Java, C++, Bash</td>
+    </tr>
+    <tr>
+      <td><strong>Data Manipulation & Analysis</strong></td>
+      <td>Pandas, NumPy, SciPy, Jupyter Notebooks</td>
+    </tr>
+    <tr>
+      <td><strong>Machine Learning & AutoML</strong></td>
+      <td>scikit-learn, XGBoost, LightGBM, Auto-sklearn</td>
+    </tr>
+    <tr>
+      <td><strong>Deep Learning</strong></td>
+      <td>TensorFlow, PyTorch, Keras</td>
+    </tr>
+    <tr>
+      <td><strong>Natural Language Processing</strong></td>
+      <td>Hugging Face Transformers, SpaCy, NLTK, Gensim, GPT-based models</td>
+    </tr>
+    <tr>
+      <td><strong>Data Visualization & BI</strong></td>
+      <td>Matplotlib, Seaborn, Plotly, Power BI, Tableau</td>
+    </tr>
+    <tr>
+      <td><strong>MLOps & Model Deployment</strong></td>
+      <td>MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud & DevOps</strong></td>
+      <td>Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow)</td>
+    </tr>
+    <tr>
+      <td><strong>Big Data</strong></td>
+      <td>Apache Spark, Hadoop, Hive</td>
+    </tr>
+    <tr>
+      <td><strong>Databases & Storage</strong></td>
+      <td>MySQL, PostgreSQL, MongoDB</td>
+    </tr>
+    <tr>
+      <td><strong>APIs & Microservices</strong></td>
+      <td>FastAPI, Flask, RESTful APIs</td>
+    </tr>
+    <tr>
+      <td><strong>Agile Methodologies & CI/CD</strong></td>
+      <td>Scrum, Kanban, CI/CD pipelines (Git, Jenkins, GitHub Actions), Jira</td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
