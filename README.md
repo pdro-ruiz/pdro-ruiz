@@ -118,6 +118,71 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
 
 <br>
 
+<div align="center"><h2>Featured Projects</h2></div>
+
+<p>Here are some of my most relevant projects, where I apply AI, data science, and machine learning to solve real-world challenges.</p>
+
+<ul>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Ethical-Emerging-Technologist"><strong>🛡️ Ethical Emerging Technologist</strong></a>  
+    <em>Certified by CertNexus.</em> Focused on ethical AI, data privacy, and responsible technology development.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Advertising-Engine-with-SemanticTargeting-and-ReinforcementLearning"><strong>📢 Advertising Engine with Semantic Targeting & Reinforcement Learning</strong></a>  
+    AI-powered ad engine optimizing audience segmentation using semantic analysis and reinforcement learning.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/YouTube_Metadata_whit_Machine_Lerning"><strong>🎥 YouTube Metadata with Machine Learning</strong></a>  
+    AI-driven analysis of YouTube metadata to uncover trends and insights from video performance.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Analisis-de-Datos-de-SpaceX"><strong>🚀 SpaceX Data Analysis</strong></a>  
+    Exploratory and predictive analytics on SpaceX launch data to identify key success factors.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Emotion-Detection-Web-App"><strong>😊 Emotion Detection Web App</strong></a>  
+    NLP-based web app that analyzes text input to detect and classify emotions.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services"><strong>🔗 Flask API with OpenAI GPT-3 & IBM Watson</strong></a>  
+    API integrating OpenAI's GPT-3 and IBM Watson services to enhance conversational AI capabilities.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Fine-Tuning-RoBERTa-for-Sentiment-Analysis-on-IMDb-Reviews"><strong>📝 Fine-Tuning RoBERTa for Sentiment Analysis</strong></a>  
+    NLP model fine-tuned on IMDb reviews to analyze sentiment with high accuracy.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Celebrity-Facial-Recognition"><strong>📸 Celebrity Facial Recognition</strong></a>  
+    Deep learning model for recognizing celebrities from images using facial recognition techniques.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/PhotoNamesAI"><strong>🤖 PhotoNamesAI</strong></a>  
+    AI-powered image naming tool that generates meaningful photo titles automatically.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/drowsiness_detection"><strong>😴 Drowsiness Detection</strong></a>  
+    AI system detecting driver drowsiness using computer vision and deep learning.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Wine-Quality-Prediction"><strong>🍷 Wine Quality Prediction</strong></a>  
+    ML model predicting wine quality based on chemical composition.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/House-prices-regression-models"><strong>🏡 House Prices Regression Models</strong></a>  
+    Predicting real estate prices using regression techniques.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Breast-Cancer-Prediction"><strong>🩺 Breast Cancer Prediction</strong></a>  
+    AI-driven diagnostic model for breast cancer detection.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Chatbot-con-BlenderBot-y-Transformers"><strong>💬 AI Chatbot with BlenderBot & Transformers</strong></a>  
+    Advanced conversational AI chatbot built using Facebook AI's BlenderBot and Transformer models.
+  </li>
+</ul>
+
+<br>
+
 <div align="center"><h2>Education</h2></div>
 <div align="center">
   <table>
@@ -237,71 +302,6 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
     </tr>
   </table>
 </div>
-
-<br>
-
-<div align="center"><h2>Featured Projects</h2></div>
-
-<p>Here are some of my most relevant projects, where I apply AI, data science, and machine learning to solve real-world challenges.</p>
-
-<ul>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Ethical-Emerging-Technologist"><strong>🛡️ Ethical Emerging Technologist</strong></a>  
-    <em>Certified by CertNexus.</em> Focused on ethical AI, data privacy, and responsible technology development.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Advertising-Engine-with-SemanticTargeting-and-ReinforcementLearning"><strong>📢 Advertising Engine with Semantic Targeting & Reinforcement Learning</strong></a>  
-    AI-powered ad engine optimizing audience segmentation using semantic analysis and reinforcement learning.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/YouTube_Metadata_whit_Machine_Lerning"><strong>🎥 YouTube Metadata with Machine Learning</strong></a>  
-    AI-driven analysis of YouTube metadata to uncover trends and insights from video performance.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Analisis-de-Datos-de-SpaceX"><strong>🚀 SpaceX Data Analysis</strong></a>  
-    Exploratory and predictive analytics on SpaceX launch data to identify key success factors.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Emotion-Detection-Web-App"><strong>😊 Emotion Detection Web App</strong></a>  
-    NLP-based web app that analyzes text input to detect and classify emotions.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services"><strong>🔗 Flask API with OpenAI GPT-3 & IBM Watson</strong></a>  
-    API integrating OpenAI's GPT-3 and IBM Watson services to enhance conversational AI capabilities.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Fine-Tuning-RoBERTa-for-Sentiment-Analysis-on-IMDb-Reviews"><strong>📝 Fine-Tuning RoBERTa for Sentiment Analysis</strong></a>  
-    NLP model fine-tuned on IMDb reviews to analyze sentiment with high accuracy.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Celebrity-Facial-Recognition"><strong>📸 Celebrity Facial Recognition</strong></a>  
-    Deep learning model for recognizing celebrities from images using facial recognition techniques.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/PhotoNamesAI"><strong>🤖 PhotoNamesAI</strong></a>  
-    AI-powered image naming tool that generates meaningful photo titles automatically.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/drowsiness_detection"><strong>😴 Drowsiness Detection</strong></a>  
-    AI system detecting driver drowsiness using computer vision and deep learning.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Wine-Quality-Prediction"><strong>🍷 Wine Quality Prediction</strong></a>  
-    ML model predicting wine quality based on chemical composition.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/House-prices-regression-models"><strong>🏡 House Prices Regression Models</strong></a>  
-    Predicting real estate prices using regression techniques.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Breast-Cancer-Prediction"><strong>🩺 Breast Cancer Prediction</strong></a>  
-    AI-driven diagnostic model for breast cancer detection.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Chatbot-con-BlenderBot-y-Transformers"><strong>💬 AI Chatbot with BlenderBot & Transformers</strong></a>  
-    Advanced conversational AI chatbot built using Facebook AI's BlenderBot and Transformer models.
-  </li>
-</ul>
 
 <br>
 
