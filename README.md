@@ -310,9 +310,3 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
   <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/pdro-ruiz">linkedin.com/in/pdro-ruiz</a></li>
   <li><strong>Huggin Face</strong>: <a href="https://huggingface.co/Pdro-ruiz">huggingface.co/pdro-ruiz</a></li>
 </ul>
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Pdro-Ruiz&icon=3&color=12" alt="Visitor count">
-  </a>
-</div>
