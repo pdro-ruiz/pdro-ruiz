@@ -1,163 +1,316 @@
 <div align="center">
-  <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/pdro_ruiz.jpg" alt="Pedro I. Ruiz">
+  <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/pdro_ruiz.png" alt="banner of Pedro Ismael Ruiz profile">
 </div>
-<h1 align="center"><b>Hello! I'm Pedro I. Ruiz</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Welcome to my universe of data and artificial intelligence</b></h1>
 
 <p align="center">
-  A passionate data scientist and an avid explorer of the vast world of data.
-</p>
-
-<p align="center">
-  Since discovering my ability to find patterns in big data, I have dedicated myself to transforming those data into valuable insights and practical solutions for various challenges.
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <b>Pedro Ismael Ruiz</b>, a data architect, a pattern explorer and an intelligence creator.
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Data+Scientist;I+uncover+hidden+and+valuable+patterns;I+automate+complex+processes+with+AI;I+create+advanced+detection+tools;🧙‍♂️+I+predict+the+future+with+algorithms"></a>
+  If you're here, it's because you're driven by the same thing I am: infinite curiosity about data and AI, and their ability to predict, optimize and generate.
 </p>
 
-<p>
-  My curiosity has led me to tackle a wide range of complex problems. In my repositories and on my website, you will find examples where I have applied my analytical skills and experience in data handling. From exploratory analysis to the construction and deployment of machine learning models, each project has been an opportunity to learn, grow, and make significant contributions.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=24&center=true&vCenter=true&width=700&height=100&lines=👨‍💻+I+whisper+to+the+datasets;🔮+I+predict+the+future+(sometimes...);🤖+I+teach+AI+to+create+stuff;📊+Turning+data+chaos+into+gold;⚡+Debugging+life+one+model+at+a+time">
+  </a>
 </p>
 
-<p>
-  I don't mind getting my hands dirty cleaning and preprocessing data to make sense of it, exploring and visualizing data to uncover hidden stories, and building predictive models that really work. Each project in my portfolio is a showcase of my meticulous approach and my ability to communicate results clearly and effectively.
-</p>
+<p>Data is my raw material, but <strong>artificial intelligence</strong> is my canvas.<br>
+I don't just analyze information; <em>I train it, shape it, and make it speak.</em></p>
 
-<p>
-  In addition to the projects, you will find several certifications from reputable institutions that reflect my commitment to continuous learning and my enthusiasm for staying up-to-date with the latest trends and techniques in data science. These credentials are a testament to my dedication and my constant desire to improve.
-</p>
+<ul>
+  <li>📊 <strong>I uncover patterns</strong> in vast oceans of data, finding stories others overlook.</li>
+  <li>🔮 <strong>I predict the future</strong> with machine learning models that go beyond the obvious.</li>
+  <li>🧠 <strong>I create with Generative AI</strong>, exploring the potential of models that not only learn but <em>imagine and generate</em>.</li>
+</ul>
 
-<p>
-  I would love to connect with other professionals and explore collaboration opportunities. I am open to discussing how we can work together to harness the power of data and create a positive impact. Feel free to contact me if you have any questions or if you are interested in collaborating on a project.
+<p>From <strong>transformers</strong> that analyze sentiments and trends to <strong>neural networks</strong> that generate text and images, my work is a blend of <em>technical precision and pure creativity</em>.</p>
 
-</p>
+<br>
 
-<p>
-  Thank you for visiting my GitHub, LinkedIn, or website. I hope you enjoy exploring my work as much as I enjoyed creating it.
-</p>
+<h3>📌 What You’ll Find Here</h3>
+<ul>
+  <li>✅ <strong>Data Cleaning & Preprocessing</strong> – Every great story starts with well-structured data.</li>
+  <li>✅ <strong>Exploration & Visualization</strong> – Turning raw numbers into compelling, insightful narratives.</li>
+  <li>✅ <strong>Predictive Modeling & Machine Learning</strong> – Forecasting trends with surgical precision.</li>
+  <li>✅ <strong>Model Optimization & Deployment</strong> – Because a model is only valuable when it impacts the real world.</li>
+  <li>✅ <strong>Generative AI in Action</strong> – Content creation, idea generation, and creative automation.</li>
+</ul>
 
+<br>
 
-<hr>
+<h2>More Than a Data Scientist: An AI Engineer</h2>
+<p>I work at the crossroads of <strong>analytics and generation</strong>, where AI doesn’t just interpret the world—it <strong>actively transforms it</strong>.</p>
+<p>My mission? <strong>To build models that don’t just think, but create.</strong></p>
+<p>Every project I take on is a blend of <strong>technical mastery and creative exploration</strong>. Whether it's uncovering deep insights from data or pushing the boundaries of <strong>Generative AI</strong>, I'm always searching for <strong>the next breakthrough</strong>.</p>
 
+<br>
+
+<h2>🤝 Let’s Connect & Build Something Amazing</h2>
+<p>I’m always open to sharing ideas and collaborating with fellow AI and data enthusiasts.</p>
+<p>If you have a project in mind or just want to chat about the future of AI, <strong>let’s talk</strong>!</p>
+<p>📩 <strong>Drop me a message</strong>—the next big idea could be just one conversation away.</p>
+<p>Thanks for stopping by!</p>
+
+<br>
+
+<div align="center"><h2>Technical Skills</h2></div>
 <div align="center">
-  <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/grid-snake.svg" alt="Snake Animation">
+  <table>
+    <tr>
+      <th>📌 Category</th>
+      <th>🛠 Tools & Technologies</th>
+    </tr>
+    <tr>
+      <td><strong>Programming Languages</strong></td>
+      <td>Python (Expert), R, SQL, NoSQL, Java, C++, Bash</td>
+    </tr>
+    <tr>
+      <td><strong>Data Manipulation & Analysis</strong></td>
+      <td>Pandas, NumPy, SciPy, Jupyter Notebooks</td>
+    </tr>
+    <tr>
+      <td><strong>Machine Learning & AutoML</strong></td>
+      <td>scikit-learn, XGBoost, LightGBM, Auto-sklearn</td>
+    </tr>
+    <tr>
+      <td><strong>Deep Learning</strong></td>
+      <td>TensorFlow, PyTorch, Keras</td>
+    </tr>
+    <tr>
+      <td><strong>Natural Language Processing</strong></td>
+      <td>Hugging Face Transformers, SpaCy, NLTK, Gensim, GPT-based models</td>
+    </tr>
+    <tr>
+      <td><strong>Data Visualization & BI</strong></td>
+      <td>Matplotlib, Seaborn, Plotly, Power BI, Tableau</td>
+    </tr>
+    <tr>
+      <td><strong>MLOps & Model Deployment</strong></td>
+      <td>MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins, GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud & DevOps</strong></td>
+      <td>Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow)</td>
+    </tr>
+    <tr>
+      <td><strong>Big Data</strong></td>
+      <td>Apache Spark, Hadoop, Hive</td>
+    </tr>
+    <tr>
+      <td><strong>Databases & Storage</strong></td>
+      <td>MySQL, PostgreSQL, MongoDB, Redis</td>
+    </tr>
+    <tr>
+      <td><strong>APIs & Microservices</strong></td>
+      <td>FastAPI, Flask, RESTful APIs, gRPC</td>
+    </tr>
+    <tr>
+      <td><strong>Agile Methodologies & CI/CD</strong></td>
+      <td>Scrum, Kanban, CI/CD pipelines (Git, Jenkins, GitHub Actions), Jira</td>
+    </tr>
+  </table>
 </div>
 
+<br>
 
-
-## Información de Contacto
-
-- **LinkedIn**: [linkedin.com/in/pdro-ruiz](https://linkedin.com/in/pdro-ruiz)
-- **Idiomas**: Español (Nativo), Inglés (Intermedio), Alemán (Intermedio)
-
----
-
-## Habilidades Técnicas
-
+<div align="center"><h2>Education</h2></div>
 <div align="center">
-
-| **Categoría**                         | **Herramientas y Tecnologías**                                                                 |
-|---------------------------------------|-----------------------------------------------------------------------------------------------|
-| **Lenguajes de Programación**         | Python (Experto), R, SQL, NoSQL, Java, C++, Bash                                                |
-| **Manipulación y Análisis de Datos**  | Pandas, NumPy, SciPy, Jupyter Notebooks                                                         |
-| **Machine Learning & AutoML**         | scikit-learn, XGBoost, LightGBM, Auto-sklearn                                                   |
-| **Deep Learning**                     | TensorFlow, PyTorch, Keras                                                                      |
-| **Procesamiento de Lenguaje Natural** | Hugging Face Transformers, SpaCy, NLTK, Gensim, modelos basados en GPT                          |
-| **Visualización de Datos & BI**       | Matplotlib, Seaborn, Plotly, Power BI, Tableau                                                  |
-| **MLOps & Despliegue de Modelos**     | MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins, GitHub Actions                     |
-| **Cloud & DevOps**                    | Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow)       |
-| **Big Data**                          | Apache Spark, Hadoop, Hive                                                                      |
-| **Bases de Datos & Almacenamiento**   | MySQL, PostgreSQL, MongoDB, Redis                                                               |
-| **APIs & Microservicios**             | FastAPI, Flask, RESTful APIs, gRPC                                                              |
-| **Metodologías Ágiles & CI/CD**       | Scrum, Kanban, pipelines CI/CD (Git, Jenkins, GitHub Actions), Jira                              |
-
+  <table>
+    <tr>
+      <th>🎓 Degree</th>
+      <th>🏫 Institution</th>
+      <th>📌 Status</th>
+    </tr>
+    <tr>
+      <td><strong>Master’s in Data Science & Artificial Intelligence</strong></td>
+      <td>Grupo Atrium</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td><strong>MBA in Management, Marketing & Communication</strong></td>
+      <td>Unidema Higher Education</td>
+      <td>Completed</td>
+    </tr>
+  </table>
 </div>
 
----
+<br>
 
-## Formación Académica
-
-<div align="center">
-
-| **Título**                                           | **Institución**            | **Estado**   |
-|-----------------------------------------------------|----------------------------|--------------|
-| **Máster en Data Science e Inteligencia Artificial** | Grupo Atrium               | Completado   |
-| **MBA en Gestión, Marketing y Comunicación**        | Unidema Higher Education   | Completado   |
-
-</div>
-
----
-
-## Certificaciones
+<div align="center"><h2>Certifications</h2></div>
 
 <div align="center">
-
-| **Certificación**                                                     | **Institución**          | **Fecha**   |
-|-----------------------------------------------------------------------|--------------------------|-------------|
-| **Generative AI Engineering - Professional Certificate**             | IBM                      | Mar. 2025   |
-| **DevOps and Software Engineering - Professional Certificate**       | IBM                      | Ene. 2025   |
-| **Data Scientist - Professional Certificate**                        | IBM                      | Nov. 2024   |
-| **Artificial Intelligence Programme**                                | EITCA Academy            | Jul. 2024   |
-| **AI Developer - Professional Certificate**                          | IBM                      | May. 2024   |
-| **Emerging Ethical Technologist**                                    | CertNexus                | Abr. 2024   |
-| **Machine Learning**                                                   | Stanford University      | Oct. 2023   |
-| **Mathematics for Machine Learning**                                   | DeepLearning.AI          | Sep. 2023   |
-| **Logic and Critical Thinking**                                        | Duke University          | Jul. 2023   |
-| **Data Analyst - Professional Certificate**                            | Google                   | Abr. 2023   |
-| **Data Mining Business Intelligence**                                  | NtFor                    | Abr. 2023   |
-
+  <table>
+    <tr>
+      <th>🏆 Certification</th>
+      <th>🏫 Institution</th>
+      <th>📅 Date</th>
+    </tr>
+    <tr>
+      <td><strong>Generative AI Engineering - Professional Certificate</strong></td>
+      <td>IBM</td>
+      <td>Mar. 2025</td>
+    </tr>
+    <tr>
+      <td><strong>DevOps and Software Engineering - Professional Certificate</strong></td>
+      <td>IBM</td>
+      <td>Jan. 2025</td>
+    </tr>
+    <tr>
+      <td><strong>Data Scientist - Professional Certificate</strong></td>
+      <td>IBM</td>
+      <td>Aug. 2024</td>
+    </tr>
+    <tr>
+      <td><strong>Artificial Intelligence Programme</strong></td>
+      <td>EITCA Academy</td>
+      <td>Jul. 2024</td>
+    </tr>
+    <tr>
+      <td><strong>AI Developer - Professional Certificate</strong></td>
+      <td>IBM</td>
+      <td>May. 2024</td>
+    </tr>
+    <tr>
+      <td><strong>Emerging Ethical Technologist</strong></td>
+      <td>CertNexus</td>
+      <td>Apr. 2024</td>
+    </tr>
+    <tr>
+      <td><strong>Azure Data Scientist Associate (DP-100)</strong></td>
+      <td>Microsoft Azure</td>
+      <td>Mar. 2024</td>
+    </tr>
+    <tr>
+      <td><strong>Algorithms</strong></td>
+      <td>Stanford University</td>
+      <td>Nov. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Machine Learning</strong></td>
+      <td>Stanford University</td>
+      <td>Oct. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Mathematics for Machine Learning and Data Science</strong></td>
+      <td>DeepLearning.AI</td>
+      <td>Sep. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Logic and Critical Thinking</strong></td>
+      <td>Duke University</td>
+      <td>Jul. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Agile Project Management</strong></td>
+      <td>Femxa</td>
+      <td>Apr. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Data Analyst - Professional Certificate</strong></td>
+      <td>Google</td>
+      <td>Apr. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Data Mining Business Intelligence</strong></td>
+      <td>NtFor</td>
+      <td>Apr. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Advanced Excel and Power BI Data Visualization</strong></td>
+      <td>Bilib</td>
+      <td>Mar. 2023</td>
+    </tr>
+    <tr>
+      <td><strong>Google Ads Search Campaigns</strong></td>
+      <td>Google</td>
+      <td>Oct. 2021</td>
+    </tr>
+    <tr>
+      <td><strong>Google Analytics</strong></td>
+      <td>Google</td>
+      <td>Oct. 2021</td>
+    </tr>
+  </table>
 </div>
 
----
+<br>
 
-## Proyectos Destacados
+<div align="center"><h2>Featured Projects</h2></div>
 
-- **[Ethical Emerging Technologist](https://github.com/pdro-ruiz/Ethical-Emerging-Technologist)**  
-  Certificado profesional de CertNexus.
+<p>Here are some of my most relevant projects, where I apply AI, data science, and machine learning to solve real-world challenges.</p>
 
-- **[Advertising Engine with Semantic Targeting and Reinforcement Learning](https://github.com/pdro-ruiz/Advertising-Engine-with-SemanticTargeting-and-ReinforcementLearning)**  
-  Motor publicitario optimizado mediante segmentación semántica y aprendizaje por refuerzo.
+<ul>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Ethical-Emerging-Technologist"><strong>🛡️ Ethical Emerging Technologist</strong></a>  
+    <em>Certified by CertNexus.</em> Focused on ethical AI, data privacy, and responsible technology development.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Advertising-Engine-with-SemanticTargeting-and-ReinforcementLearning"><strong>📢 Advertising Engine with Semantic Targeting & Reinforcement Learning</strong></a>  
+    AI-powered ad engine optimizing audience segmentation using semantic analysis and reinforcement learning.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/YouTube_Metadata_whit_Machine_Lerning"><strong>🎥 YouTube Metadata with Machine Learning</strong></a>  
+    AI-driven analysis of YouTube metadata to uncover trends and insights from video performance.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Analisis-de-Datos-de-SpaceX"><strong>🚀 SpaceX Data Analysis</strong></a>  
+    Exploratory and predictive analytics on SpaceX launch data to identify key success factors.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Emotion-Detection-Web-App"><strong>😊 Emotion Detection Web App</strong></a>  
+    NLP-based web app that analyzes text input to detect and classify emotions.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services"><strong>🔗 Flask API with OpenAI GPT-3 & IBM Watson</strong></a>  
+    API integrating OpenAI's GPT-3 and IBM Watson services to enhance conversational AI capabilities.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Fine-Tuning-RoBERTa-for-Sentiment-Analysis-on-IMDb-Reviews"><strong>📝 Fine-Tuning RoBERTa for Sentiment Analysis</strong></a>  
+    NLP model fine-tuned on IMDb reviews to analyze sentiment with high accuracy.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Celebrity-Facial-Recognition"><strong>📸 Celebrity Facial Recognition</strong></a>  
+    Deep learning model for recognizing celebrities from images using facial recognition techniques.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/PhotoNamesAI"><strong>🤖 PhotoNamesAI</strong></a>  
+    AI-powered image naming tool that generates meaningful photo titles automatically.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/drowsiness_detection"><strong>😴 Drowsiness Detection</strong></a>  
+    AI system detecting driver drowsiness using computer vision and deep learning.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Wine-Quality-Prediction"><strong>🍷 Wine Quality Prediction</strong></a>  
+    ML model predicting wine quality based on chemical composition.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/House-prices-regression-models"><strong>🏡 House Prices Regression Models</strong></a>  
+    Predicting real estate prices using regression techniques.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Breast-Cancer-Prediction"><strong>🩺 Breast Cancer Prediction</strong></a>  
+    AI-driven diagnostic model for breast cancer detection.
+  </li>
+  <li>
+    <a href="https://github.com/pdro-ruiz/Chatbot-con-BlenderBot-y-Transformers"><strong>💬 AI Chatbot with BlenderBot & Transformers</strong></a>  
+    Advanced conversational AI chatbot built using Facebook AI's BlenderBot and Transformer models.
+  </li>
+</ul>
 
-- **[YouTube Metadata with Machine Learning](https://github.com/pdro-ruiz/YouTube_Metadata_whit_Machine_Lerning)**  
-  Análisis de metadatos de videos de YouTube utilizando técnicas de aprendizaje automático.
+<br>
 
-- **[Análisis de Datos de SpaceX](https://github.com/pdro-ruiz/Analisis-de-Datos-de-SpaceX)**  
-  Exploración y visualización de datos de SpaceX para detectar patrones significativos.
+<h2>📬 Contact Information</h2>
+<ul>
+  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/pdro-ruiz">linkedin.com/in/pdro-ruiz</a></li>
+  <li><strong>Huggin Face</strong>: <a href="https://huggingface.co/Pdro-ruiz">huggingface.co/pdro-ruiz</a></li>
+</ul>
 
-- **[Emotion Detection Web App](https://github.com/pdro-ruiz/Emotion-Detection-Web-App)**  
-  Aplicación web para la detección de emociones a partir de texto.
-
-- **[Flask API Integrating OpenAI GPT-3 and IBM Watson Services](https://github.com/pdro-ruiz/Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services)**  
-  API en Flask que integra GPT-3 de OpenAI y servicios de IBM Watson.
-
-- **[RMS Titanic Dataset](https://github.com/pdro-ruiz/RMS-Titanic-Dataset)**  
-  Análisis predictivo del dataset del Titanic.
-
-- **[Celebrity Facial Recognition](https://github.com/pdro-ruiz/Celebrity-Facial-Recognition)**  
-  Reconocimiento facial de celebridades utilizando modelos de deep learning.
-
-- **[PhotoNamesAI](https://github.com/pdro-ruiz/PhotoNamesAI)**  
-  Generación de nombres para fotos mediante inteligencia artificial.
-
-- **[Drowsiness Detection](https://github.com/pdro-ruiz/drowsiness_detection)**  
-  Sistema de detección de somnolencia basado en IA.
-
-- **[Fine-Tuning RoBERTa for Sentiment Analysis on IMDb Reviews](https://github.com/pdro-ruiz/Fine-Tuning-RoBERTa-for-Sentiment-Analysis-on-IMDb-Reviews)**  
-  Ajuste fino de RoBERTa para análisis de sentimientos en reseñas de IMDb.
-
-- **[Wine Quality Prediction](https://github.com/pdro-ruiz/Wine-Quality-Prediction)**  
-  Modelo de predicción de calidad del vino a partir de características químicas.
-
-- **[House Prices Regression Models](https://github.com/pdro-ruiz/House-prices-regression-models)**  
-  Predicción de precios de viviendas mediante modelos de regresión.
-
-- **[Breast Cancer Prediction](https://github.com/pdro-ruiz/Breast-Cancer-Prediction)**  
-  Modelo predictivo para el diagnóstico de cáncer de mama.
-
-- **[Chatbot con BlenderBot y Transformers](https://github.com/pdro-ruiz/Chatbot-con-BlenderBot-y-Transformers)**  
-  Desarrollo de un chatbot avanzado utilizando BlenderBot y Transformers.
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Pdro-Ruiz&icon=3&color=12)](https://visitcount.itsvg.in)
-
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Pdro-Ruiz&icon=3&color=12" alt="Visitor count">
+  </a>
+</div>
