@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/pdro_ruiz.png" alt="banner of Pedro Ismael Ruiz profile">
 </div>
+
+<br>
 <h1 align="center"><b>Welcome to my universe of data and artificial intelligence</b></h1>
 
 <p align="center">
