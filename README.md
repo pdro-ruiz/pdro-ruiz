@@ -196,6 +196,21 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
       <td>Grupo Atrium</td>
       <td>Completed</td>
     </tr>
+        <tr>
+      <td><strong>Algorithms</strong></td>
+      <td>Stanford University</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td><strong>Machine Learning</strong></td>
+      <td>Stanford University</td>
+      <td>Completed</td>
+    </tr>
+    <tr>
+      <td><strong>Logic and Critical Thinking</strong></td>
+      <td>Duke University</td>
+      <td>Completed</td>
+    </tr>
     <tr>
       <td><strong>MBA in Management, Marketing & Communication</strong></td>
       <td>Unidema Higher Education</td>
@@ -251,24 +266,9 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
       <td>Mar. 2024</td>
     </tr>
     <tr>
-      <td><strong>Algorithms</strong></td>
-      <td>Stanford University</td>
-      <td>Nov. 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Machine Learning</strong></td>
-      <td>Stanford University</td>
-      <td>Oct. 2023</td>
-    </tr>
-    <tr>
       <td><strong>Mathematics for Machine Learning and Data Science</strong></td>
       <td>DeepLearning.AI</td>
       <td>Sep. 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Logic and Critical Thinking</strong></td>
-      <td>Duke University</td>
-      <td>Jul. 2023</td>
     </tr>
     <tr>
       <td><strong>Agile Project Management</strong></td>
