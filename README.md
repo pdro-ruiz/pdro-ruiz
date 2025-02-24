@@ -236,6 +236,11 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
       <td>Mar. 2025</td>
     </tr>
     <tr>
+      <td><strong>Fundamentals of Agents</strong></td>
+      <td>Hugging Face</td>
+      <td>Feb. 2025</td>
+    </tr>
+    <tr>
       <td><strong>DevOps and Software Engineering - Professional Certificate</strong></td>
       <td>IBM</td>
       <td>Jan. 2025</td>
