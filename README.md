@@ -132,7 +132,7 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
     </tr>
     <tr>
       <td><strong>Programming Languages</strong></td>
-      <td>Python (Expert), R, SQL, NoSQL, Java, C++, Bash</td>
+      <td>Prompting, Python (Expert), R, SQL, NoSQL, Java, C++, Bash</td>
     </tr>
     <tr>
       <td><strong>Data Manipulation & Analysis</strong></td>
@@ -156,7 +156,7 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
     </tr>
     <tr>
       <td><strong>MLOps & Model Deployment</strong></td>
-      <td>MLflow, DVC, Kubeflow, Airflow, Docker, Kubernetes, Jenkins</td>
+      <td>MLflow, Kubeflow, Airflow, Docker, Kubernetes, Jenkins</td>
     </tr>
     <tr>
       <td><strong>Cloud & DevOps</strong></td>
@@ -164,7 +164,7 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
     </tr>
     <tr>
       <td><strong>Big Data</strong></td>
-      <td>Apache Spark, Hadoop, Hive</td>
+      <td>Apache Spark, Hadoop</td>
     </tr>
     <tr>
       <td><strong>Databases & Storage</strong></td>
@@ -176,7 +176,7 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
     </tr>
     <tr>
       <td><strong>Agile Methodologies & CI/CD</strong></td>
-      <td>Scrum, Kanban, CI/CD pipelines (Git, Jenkins, GitHub Actions), Jira</td>
+      <td>Scrum, Kanban, CI/CD pipelines (Git, Jenkins), Jira</td>
     </tr>
   </table>
 </div>
