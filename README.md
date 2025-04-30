@@ -231,7 +231,7 @@ I don't just analyze information; <em>I train it, shape it, and make it speak.</
       <th>📅 Date</th>
     </tr>
     <tr>
-      <td><strong>Associate IA Enginner - Professional Certificate</strong></td>
+      <td><strong>Associate IA Enginner</strong></td>
       <td>Microsoft</td>
       <td>May. 2025</td>
     </tr>
