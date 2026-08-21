@@ -1,322 +1,394 @@
 <div align="center">
-  <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/Banner Pdro Ruiz.jpg" alt="banner of Pedro Ismael Ruiz profile">
+  <img src="https://github.com/pdro-ruiz/pdro-ruiz/blob/main/Banner Pdro Ruiz.jpg"
+       alt="Pedro Ruiz — AI Systems Architect & Builder">
 </div>
 
 <br>
-<h1 align="center"><b>Welcome to my universe of data and artificial intelligence</b></h1>
+
+<h1 align="center">
+  <b>Welcome to my slightly overengineered corner of AI</b>
+</h1>
 
 <p align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <b>Pedro Ismael Ruiz</b>, a data architect, a pattern explorer and an intelligence creator.
+  Hi 👋, I'm <b>Pedro Ruiz</b> — AI Systems Architect, builder and technical founder.
 </p>
 
 <p align="center">
-  If you're here, it's because you're driven by the same thing I am: infinite curiosity about data and AI, and their ability to predict, optimize and generate.
+  I build agents, AI systems and intelligent machines.<br>
+  Then I ask who gave them permission, how we prove what they did,
+  and how we get them back under control when they become... creative.
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=24&center=true&vCenter=true&width=700&height=100&lines=👨‍💻+I+whisper+to+the+datasets;🔮+I+predict+the+future+(sometimes...);🤖+I+teach+AI+to+create+stuff;📊+Turning+data+chaos+into+gold;⚡+Debugging+life+one+model+at+a+time">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=22&center=true&vCenter=true&width=900&height=100&lines=⚙️+Building+systems+that+survive+production;🤖+Giving+agents+tools.+Regretting+some+permissions.;🔐+Asking+who+authorised+this?;🧪+Breaking+things+deliberately+so+users+don't+have+to;🧠+Models+are+clever.+Systems+need+adults."
+      alt="Pedro Ruiz — AI Systems, Agents, Security and Architecture">
   </a>
 </p>
 
-<p>Data is my raw material, but <strong>artificial intelligence</strong> is my canvas.<br>
-I don't just analyze information; <em>I train it, shape it, and make it speak.</em></p>
+<br>
+
+<p>
+  Models are interesting.
+  <strong>Systems are harder.</strong>
+</p>
+
+<p>
+  My work starts where the demo usually ends:
+  architecture, authority, tools, data, evaluation, observability,
+  security, evidence, recovery, cost and the inconvenient question of
+  <em>who is actually allowed to do what</em>.
+</p>
+
+<p>
+  I'm currently building <strong>Nexus</strong>, an AI systems platform focused on
+  making agentic and autonomous systems governable, observable,
+  verifiable and recoverable.
+</p>
+
+<p>
+  Most of my serious engineering work happens inside a private lab.
+  Partly because it contains product IP.
+  Partly because publishing production infrastructure directly to GitHub
+  is an exciting security strategy I prefer not to explore.
+</p>
+
+<p>
+  What escapes into this profile has usually survived some combination of:
+  <strong>usefulness, sanitisation, licensing, paranoia and common sense.</strong>
+</p>
+
+<br>
+
+<h2>🧠 Things currently occupying too much of my brain</h2>
+
+<table>
+  <tr>
+    <td><strong>🤖 Agentic Engineering</strong></td>
+    <td>
+      Coding agents, multi-agent systems, tool use, context architecture,
+      orchestration and controlled execution.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>⚙️ AI Systems Architecture</strong></td>
+    <td>
+      Runtime design, control planes, execution context, observability,
+      policy and systems that have to survive production.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>🔐 Authority & Security</strong></td>
+    <td>
+      Permissions, capability boundaries, MCP/tool security, secrets,
+      egress, supply-chain risk and blast radius.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>🧾 Evidence & Governance</strong></td>
+    <td>
+      Decision receipts, provenance, auditability, policy enforcement,
+      verification and recovery.
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>🧪 Evaluation</strong></td>
+    <td>
+      Evals, benchmarks, regression testing, adversarial verification
+      and the difference between "it passed" and "I trust it".
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>🧬 Model Strategy</strong></td>
+    <td>
+      Model routing, distillation, SLMs, open models and the eternal question:
+      do we really need the biggest model for this?
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>🏭 Physical & Industrial AI</strong></td>
+    <td>
+      IoT, OT, edge AI, digital twins and autonomous systems that can
+      break actual things instead of just JSON.
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2>🔧 What I'm building</h2>
+
+<h3>Nexus</h3>
+
+<p>
+  I'm <strong>Founder & Chief Architect</strong> of Nexus.
+</p>
+
+<p>
+  Nexus explores a deceptively simple problem:
+</p>
+
+<blockquote>
+  <strong>
+    If we give intelligent systems real capability to act,
+    how do we keep authority, evidence and recovery under control?
+  </strong>
+</blockquote>
+
+<p>
+  Current areas include:
+</p>
 
 <ul>
-  <li>📊 <strong>I uncover patterns</strong> in vast oceans of data, finding stories others overlook.</li>
-  <li>🔮 <strong>I predict the future</strong> with machine learning models that go beyond the obvious.</li>
-  <li>🧠 <strong>I create with Generative AI</strong>, exploring the potential of models that not only learn but <em>imagine and generate</em>.</li>
+  <li>canonical identity and execution context;</li>
+  <li>authority and capability boundaries;</li>
+  <li>observation and runtime visibility;</li>
+  <li>policy decision and enforcement;</li>
+  <li>decision and execution evidence;</li>
+  <li>recovery and remediation;</li>
+  <li>continuous control verification;</li>
+  <li>data provenance and information-flow control.</li>
 </ul>
 
-<p>From <strong>transformers</strong> that analyze sentiments and trends to <strong>neural networks</strong> that generate text and images, my work is a blend of <em>technical precision and pure creativity</em>.</p>
+<p>
+  In less architecture-shaped language:
+  <strong>
+    I want agents to be useful without giving them the keys to the building
+    and hoping for the best.
+  </strong>
+</p>
 
 <br>
 
-<h3>📌 What You’ll Find Here</h3>
+<h3>OneMan Legion</h3>
+
+<p>
+  My independent engineering studio and private laboratory.
+</p>
+
+<p>
+  It is where I explore AI systems, agentic engineering, model strategy,
+  security, automation and ideas that may eventually become products,
+  open-source projects or things I quietly kill before anyone has to see them.
+</p>
+
+<br>
+
+<h2>🧪 What I'm breaking lately</h2>
+
+<p>
+  I have a soft spot for systems that look excellent in a demo
+  and become much more interesting once someone asks:
+</p>
+
 <ul>
-  <li>✅ <strong>Data Cleaning & Preprocessing</strong> – Every great story starts with well-structured data.</li>
-  <li>✅ <strong>Exploration & Visualization</strong> – Turning raw numbers into compelling, insightful narratives.</li>
-  <li>✅ <strong>Predictive Modeling & Machine Learning</strong> – Forecasting trends with surgical precision.</li>
-  <li>✅ <strong>Model Optimization & Deployment</strong> – Because a model is only valuable when it impacts the real world.</li>
-  <li>✅ <strong>Generative AI in Action</strong> – Content creation, idea generation, and creative automation.</li>
+  <li>Who authorised this action?</li>
+  <li>What exactly can the agent modify?</li>
+  <li>Which source is canonical?</li>
+  <li>What happens when two agents disagree?</li>
+  <li>Can we reproduce the decision?</li>
+  <li>Can we prove what happened without storing everything?</li>
+  <li>Who validates the validator?</li>
+  <li>How do we roll it back?</li>
+  <li>How much does the accepted result actually cost?</li>
 </ul>
 
-<br>
-
-<h2>More Than a Data Scientist: An AI Engineer</h2>
-<p>I work at the crossroads of <strong>analytics and generation</strong>, where AI doesn’t just interpret the world—it <strong>actively transforms it</strong>.</p>
-<p>My mission? <strong>To build models that don’t just think, but create.</strong></p>
-<p>Every project I take on is a blend of <strong>technical mastery and creative exploration</strong>. Whether it's uncovering deep insights from data or pushing the boundaries of <strong>Generative AI</strong>, I'm always searching for <strong>the next breakthrough</strong>.</p>
-
-<br>
-
-<h2>🤝 Let’s Connect & Build Something Amazing</h2>
-<p>I’m always open to sharing ideas and collaborating with fellow AI and data enthusiasts.</p>
-<p>If you have a project in mind or just want to chat about the future of AI, <strong>let’s talk</strong>!</p>
-<p>📩 <strong>Drop me a message</strong>—the next big idea could be just one conversation away.</p>
-<p>Thanks for stopping by!</p>
+<p>
+  More agents do not automatically mean more intelligence.
+  Sometimes they just produce
+  <strong>distributed confusion with impressive token consumption.</strong>
+</p>
 
 <br>
 
-<div align="center"><h2>Featured Projects</h2></div>
-
-<p>Here are some of my most relevant projects, where I apply AI, data science, and machine learning to solve real-world challenges.</p>
+<h2>📐 A few things I currently believe</h2>
 
 <ul>
   <li>
-    <a href="https://github.com/pdro-ruiz/Ethical-Emerging-Technologist"><strong>🛡️ Ethical Emerging Technologist</strong></a>  
-    <em>Certified by CertNexus.</em> Focused on ethical AI, data privacy, and responsible technology development.
+    <strong>A capable model is not a production system.</strong>
   </li>
+
   <li>
-    <a href="https://github.com/pdro-ruiz/Advertising-Engine-with-SemanticTargeting-and-ReinforcementLearning"><strong>📢 Advertising Engine with Semantic Targeting & Reinforcement Learning</strong></a>  
-    AI-powered ad engine optimizing audience segmentation using semantic analysis and reinforcement learning.
+    <strong>Passing tests does not automatically grant authority to deploy.</strong>
   </li>
+
   <li>
-    <a href="https://github.com/pdro-ruiz/YouTube_Metadata_whit_Machine_Lerning"><strong>🎥 YouTube Metadata with Machine Learning</strong></a>  
-    AI-driven analysis of YouTube metadata to uncover trends and insights from video performance.
+    More autonomy should normally mean more explicit authority,
+    evidence and recovery — not less.
   </li>
+
   <li>
-    <a href="https://github.com/pdro-ruiz/Analisis-de-Datos-de-SpaceX"><strong>🚀 SpaceX Data Analysis</strong></a>  
-    Exploratory and predictive analytics on SpaceX launch data to identify key success factors.
+    Governance that only exists in PowerPoint has remarkably good uptime.
   </li>
+
   <li>
-    <a href="https://github.com/pdro-ruiz/Emotion-Detection-Web-App"><strong>😊 Emotion Detection Web App</strong></a>  
-    NLP-based web app that analyzes text input to detect and classify emotions.
+    The largest available model is not automatically the right model.
   </li>
+
   <li>
-    <a href="https://github.com/pdro-ruiz/Flask-API-Integrating-OpenAI-GPT-3-and-IBM-Watson-Services"><strong>🔗 Flask API with OpenAI GPT-3 & IBM Watson</strong></a>  
-    API integrating OpenAI's GPT-3 and IBM Watson services to enhance conversational AI capabilities.
+    A technically elegant architecture can still be a terrible business decision.
   </li>
+
   <li>
-    <a href="https://github.com/pdro-ruiz/Fine-Tuning-RoBERTa-for-Sentiment-Analysis-on-IMDb-Reviews"><strong>📝 Fine-Tuning RoBERTa for Sentiment Analysis</strong></a>  
-    NLP model fine-tuned on IMDb reviews to analyze sentiment with high accuracy.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Celebrity-Facial-Recognition"><strong>📸 Celebrity Facial Recognition</strong></a>  
-    Deep learning model for recognizing celebrities from images using facial recognition techniques.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/PhotoNamesAI"><strong>🤖 PhotoNamesAI</strong></a>  
-    AI-powered image naming tool that generates meaningful photo titles automatically.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/drowsiness_detection"><strong>😴 Drowsiness Detection</strong></a>  
-    AI system detecting driver drowsiness using computer vision and deep learning.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Wine-Quality-Prediction"><strong>🍷 Wine Quality Prediction</strong></a>  
-    ML model predicting wine quality based on chemical composition.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/House-prices-regression-models"><strong>🏡 House Prices Regression Models</strong></a>  
-    Predicting real estate prices using regression techniques.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Breast-Cancer-Prediction"><strong>🩺 Breast Cancer Prediction</strong></a>  
-    AI-driven diagnostic model for breast cancer detection.
-  </li>
-  <li>
-    <a href="https://github.com/pdro-ruiz/Chatbot-con-BlenderBot-y-Transformers"><strong>💬 AI Chatbot with BlenderBot & Transformers</strong></a>  
-    Advanced conversational AI chatbot built using Facebook AI's BlenderBot and Transformer models.
+    An agent with shell access is not AGI.
+    Sometimes it is simply an incident with excellent autocomplete.
   </li>
 </ul>
 
-<br>
-
-<div align="center"><h2>Technical Skills</h2></div>
-<div align="center">
-  <table>
-    <tr>
-      <th>📌 Category</th>
-      <th>🛠 Tools & Technologies</th>
-    </tr>
-    <tr>
-      <td><strong>Programming Languages</strong></td>
-      <td>Prompting, Python (Expert), R, SQL, NoSQL, Java, C++, Bash</td>
-    </tr>
-    <tr>
-      <td><strong>Data Manipulation & Analysis</strong></td>
-      <td>Pandas, NumPy, SciPy, Jupyter Notebooks</td>
-    </tr>
-    <tr>
-      <td><strong>Machine Learning & AutoML</strong></td>
-      <td>scikit-learn, XGBoost, LightGBM, Auto-sklearn</td>
-    </tr>
-    <tr>
-      <td><strong>Deep Learning</strong></td>
-      <td>TensorFlow, PyTorch, Keras</td>
-    </tr>
-    <tr>
-      <td><strong>Natural Language Processing</strong></td>
-      <td>Hugging Face Transformers, SpaCy, NLTK, Gensim, GPT-based models</td>
-    </tr>
-    <tr>
-      <td><strong>Data Visualization & BI</strong></td>
-      <td>Matplotlib, Seaborn, Plotly, Power BI, Tableau</td>
-    </tr>
-    <tr>
-      <td><strong>MLOps & Model Deployment</strong></td>
-      <td>MLflow, Kubeflow, Airflow, Docker, Kubernetes, Jenkins</td>
-    </tr>
-    <tr>
-      <td><strong>Cloud & DevOps</strong></td>
-      <td>Azure (Azure ML, Azure DevOps), AWS (SageMaker, EC2, S3, Lambda), GCP (BigQuery, Dataflow)</td>
-    </tr>
-    <tr>
-      <td><strong>Big Data</strong></td>
-      <td>Apache Spark, Hadoop</td>
-    </tr>
-    <tr>
-      <td><strong>Databases & Storage</strong></td>
-      <td>MySQL, PostgreSQL, MongoDB</td>
-    </tr>
-    <tr>
-      <td><strong>APIs & Microservices</strong></td>
-      <td>FastAPI, Flask, RESTful APIs</td>
-    </tr>
-    <tr>
-      <td><strong>Agile Methodologies & CI/CD</strong></td>
-      <td>Scrum, Kanban, CI/CD pipelines (Git, Jenkins), Jira</td>
-    </tr>
-  </table>
-</div>
+<p>
+  These are working beliefs, not commandments.
+  Good evidence gets to change my mind.
+</p>
 
 <br>
 
-<div align="center"><h2>Education</h2></div>
-<div align="center">
-  <table>
-    <tr>
-      <th>🎓 Degree</th>
-      <th>🏫 Institution</th>
-      <th>📌 Status</th>
-    </tr>
-    <tr>
-      <td><strong>Master’s in Data Science & Artificial Intelligence</strong></td>
-      <td>Grupo Atrium</td>
-      <td>Completed</td>
-    </tr>
-        <tr>
-      <td><strong>Algorithms</strong></td>
-      <td>Stanford University</td>
-      <td>Completed</td>
-    </tr>
-    <tr>
-      <td><strong>Machine Learning</strong></td>
-      <td>Stanford University</td>
-      <td>Completed</td>
-    </tr>
-    <tr>
-      <td><strong>Logic and Critical Thinking</strong></td>
-      <td>Duke University</td>
-      <td>Completed</td>
-    </tr>
-    <tr>
-      <td><strong>MBA in Management, Marketing & Communication</strong></td>
-      <td>Unidema Higher Education</td>
-      <td>Completed</td>
-    </tr>
-  </table>
-</div>
+<h2>🧾 What survives the lab</h2>
 
-<br>
+<p>
+  This GitHub is not a mirror of my private development environment.
+  It is a curated public edge of it.
+</p>
 
-<div align="center"><h2>Certifications</h2></div>
+<p>
+  Over time you'll find selected:
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <th>🏆 Certification</th>
-      <th>🏫 Institution</th>
-      <th>📅 Date</th>
-    </tr>
-    <tr>
-      <td><strong>Associate IA Enginner</strong></td>
-      <td>Microsoft</td>
-      <td>May. 2025</td>
-    </tr>
-    <tr>
-      <td><strong>Agents</strong></td>
-      <td>Hugging Face</td>
-      <td>Abr. 2025</td>
-    </tr>
-    <tr>
-      <td><strong>Generative AI Engineering - Professional Certificate</strong></td>
-      <td>IBM</td>
-      <td>Mar. 2025</td>
-    </tr>
-    <tr>
-      <td><strong>DevOps and Software Engineering - Professional Certificate</strong></td>
-      <td>IBM</td>
-      <td>Jan. 2025</td>
-    </tr>
-    <tr>
-      <td><strong>Data Scientist - Professional Certificate</strong></td>
-      <td>IBM</td>
-      <td>Aug. 2024</td>
-    </tr>
-    <tr>
-      <td><strong>Artificial Intelligence Programme</strong></td>
-      <td>EITCA Academy</td>
-      <td>Jul. 2024</td>
-    </tr>
-    <tr>
-      <td><strong>AI Developer - Professional Certificate</strong></td>
-      <td>IBM</td>
-      <td>May. 2024</td>
-    </tr>
-    <tr>
-      <td><strong>Emerging Ethical Technologist</strong></td>
-      <td>CertNexus</td>
-      <td>Apr. 2024</td>
-    </tr>
-    <tr>
-      <td><strong>Azure Data Scientist Associate (DP-100)</strong></td>
-      <td>Microsoft Azure</td>
-      <td>Mar. 2024</td>
-    </tr>
-    <tr>
-      <td><strong>Mathematics for Machine Learning and Data Science</strong></td>
-      <td>DeepLearning.AI</td>
-      <td>Sep. 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Agile Project Management</strong></td>
-      <td>Femxa</td>
-      <td>Apr. 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Data Analyst - Professional Certificate</strong></td>
-      <td>Google</td>
-      <td>Apr. 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Data Mining Business Intelligence</strong></td>
-      <td>NtFor</td>
-      <td>Apr. 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Advanced Excel and Power BI Data Visualization</strong></td>
-      <td>Bilib</td>
-      <td>Mar. 2023</td>
-    </tr>
-    <tr>
-      <td><strong>Google Ads Search Campaigns</strong></td>
-      <td>Google</td>
-      <td>Oct. 2021</td>
-    </tr>
-    <tr>
-      <td><strong>Google Analytics</strong></td>
-      <td>Google</td>
-      <td>Oct. 2021</td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<h2>📬 Contact Information</h2>
 <ul>
-  <li><strong>LinkedIn</strong>: <a href="https://linkedin.com/in/pdro-ruiz">linkedin.com/in/pdro-ruiz</a></li>
-  <li><strong>Huggin Face</strong>: <a href="https://huggingface.co/Pdro-ruiz">huggingface.co/pdro-ruiz</a></li>
+  <li>reference implementations;</li>
+  <li>experiments;</li>
+  <li>benchmarks and evaluation harnesses;</li>
+  <li>architecture examples;</li>
+  <li>security research;</li>
+  <li>datasets and failure corpora;</li>
+  <li>model experiments;</li>
+  <li>small tools that solved an annoying enough problem to deserve escaping the lab.</li>
 </ul>
+
+<p>
+  When useful, repositories will make their maturity explicit:
+</p>
+
+<p align="center">
+  <code>EXPERIMENTAL</code>
+  &nbsp;·&nbsp;
+  <code>RESEARCH</code>
+  &nbsp;·&nbsp;
+  <code>REFERENCE IMPLEMENTATION</code>
+  &nbsp;·&nbsp;
+  <code>PRODUCTION-DERIVED</code>
+  &nbsp;·&nbsp;
+  <code>ARCHIVED</code>
+</p>
+
+<p>
+  No <em>"enterprise-grade"</em> by adjective.
+  <strong>Evidence first.</strong>
+</p>
+
+<br>
+
+<h2>🗃️ Previous expeditions</h2>
+
+<p>
+  You'll also find older projects covering machine learning,
+  computer vision, NLP, data science, MLOps and applied AI.
+</p>
+
+<p>
+  They represent earlier stages of my technical path.
+  Some are experiments, some are learning projects and some were simply
+  things I wanted to understand by building them.
+</p>
+
+<p>
+  I'm keeping the useful ones around because
+  <strong>progress is more interesting when you can see the path.</strong>
+</p>
+
+<br>
+
+<h2>🌍 The bigger question</h2>
+
+<p>
+  I'm particularly interested in what happens when software stops being
+  primarily a tool and starts receiving meaningful delegated autonomy.
+</p>
+
+<p>
+  Not only:
+</p>
+
+<blockquote>
+  <strong>What can this system do?</strong>
+</blockquote>
+
+<p>
+  But:
+</p>
+
+<blockquote>
+  Who gave it authority?<br>
+  Under what purpose?<br>
+  Over which resources?<br>
+  With what evidence?<br>
+  At what cost?<br>
+  And how do we recover control when reality disagrees with the architecture diagram?
+</blockquote>
+
+<p>
+  Somewhere between those questions live
+  <strong>agentic engineering, AI systems, security, governance,
+  model strategy and physical AI.</strong>
+</p>
+
+<p>
+  That's the part I'm interested in.
+</p>
+
+<br>
+
+<h2>🤝 Come say hello</h2>
+
+<p>
+  I'm always interested in good engineering,
+  weird technical problems, useful open source,
+  architectures worth arguing about and people building things that actually work.
+</p>
+
+<ul>
+  <li>
+    🌐 <strong>Website:</strong>
+    <a href="https://pdroruiz.com">pdroruiz.com</a>
+  </li>
+
+  <li>
+    💼 <strong>LinkedIn:</strong>
+    <a href="https://linkedin.com/in/pdro-ruiz">linkedin.com/in/pdro-ruiz</a>
+  </li>
+
+  <li>
+    🤗 <strong>Hugging Face:</strong>
+    <a href="https://huggingface.co/Pdro-ruiz">huggingface.co/Pdro-ruiz</a>
+  </li>
+</ul>
+
+<br>
+
+<hr>
+
+<p align="center">
+  <strong>Build first. Publish what survives scrutiny.</strong>
+</p>
+
+<p align="center">
+  <sub>
+    Models are clever. Production has opinions.
+  </sub>
+</p>
