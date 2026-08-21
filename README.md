@@ -372,11 +372,6 @@
     💼 <strong>LinkedIn:</strong>
     <a href="https://linkedin.com/in/pdro-ruiz">linkedin.com/in/pdro-ruiz</a>
   </li>
-
-  <li>
-    🤗 <strong>Hugging Face:</strong>
-    <a href="https://huggingface.co/Pdro-ruiz">huggingface.co/Pdro-ruiz</a>
-  </li>
 </ul>
 
 <br>
